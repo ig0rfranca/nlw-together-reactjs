@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* tira a somatória de paddings do height */
+    text-decoration: none;
+}
+
+// html {
+//     font-size: 62.5%;
+// }
+
+// img {
+//     max-width: 100%;
+// }
+
+button, a{
+    cursor: pointer;
+}
+
+body {
+    background: #f8f8f8;
+    color: #29292e;
+}
+
+body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif;
+}
